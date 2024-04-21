@@ -14,3 +14,6 @@ git status
 
 4.将文件添加到暂存区
 git add 文件名
+
+5.提交本地库
+git commit -m “日志信息”文件名

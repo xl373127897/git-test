@@ -1,0 +1,16 @@
+软件：qq 腾讯文档 向日葵 wps  idea
+
+1.设置用户签名
+git config --global user.name 用户名
+git config --global user.email 邮箱
+git config --list 查看配置信息 按q退出
+本地文件在家目录  c:/用户/37312/.gitconfig，直接修改该文件也可以
+
+2.初始化本地库
+git init
+
+3.查看本地库状态
+git status
+
+4.将文件添加到暂存区
+git add 文件名

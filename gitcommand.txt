@@ -24,7 +24,7 @@ git reflog -n 数量  查看历史版本数量
 git log 查看版本详细信息
 
 6.2版本穿梭
-git reset --hard 版本号
+git reset --hard 版本号 
 
 
 

@@ -26,6 +26,11 @@ git log 查看版本详细信息
 6.2版本穿梭
 git reset --hard 版本号  
 
+7.推送到远程仓库
+git push
+
+8.更新本地仓库
+git pull
 
 
 
